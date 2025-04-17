@@ -1,0 +1,7 @@
+# main.py
+
+def hello():
+    return "Hello from CI pipeline!"
+
+if __name__ == "__main__":
+    print(hello())
